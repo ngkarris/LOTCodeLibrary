@@ -1,0 +1,1 @@
+{"sinkhorn": false, "beta": 0.01, "metric": "square_euclidean"}
